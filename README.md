@@ -40,5 +40,42 @@
 
 ###
 
+<h3 align="left">Tools :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">Studies :</h3>
+
+###
+
+<div align="left">
+  <img src="https://github.com/TheoGerardin........." height="35" alt="storybook logo"  />
+</div>
+
+###
+
+<p align="left">3 years in DBS learning web developpement.</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github.com/TheoGerardin........." height="35" alt="storybook logo"  />
+</div>
+
+###
+
+<p align="left">Currently 42 student since 2023.</p>
+
+###
+
 ## <h3 align="left">📫 How to reach me:</h3>
 - 📧 Email: [theo.gerardin.dev@gmail.com](mailto:theo.gerardin.dev@gmail.com)
