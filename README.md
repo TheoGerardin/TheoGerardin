@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Theo Gerardin 42 Student</h1>
 
 ###
 
