@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">42 student with 3 years of web experience.  <br>I mainly code in C and C++, and I have strong interest about embedded systems and cybersecurity.</p>
+<p align="left">42 student with 3 years of web experience.  <br>I mainly code in C and C++, and I have strong interest about cybersecurity.</p>
 
 ###
 
